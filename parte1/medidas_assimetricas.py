@@ -1,5 +1,5 @@
 from medidas_estatisticas import calcula_estatisticas
-from calculo_de_quartis import calcula_quartis
+from parte1.calculo_de_quartis import calcula_quartis
 from medidas_dispersao import calculo_dispersao
 
 listaDeValores = [60,65,66,67,68,69,69,70,71,72,77]
